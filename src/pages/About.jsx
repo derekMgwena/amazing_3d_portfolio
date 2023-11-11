@@ -22,7 +22,7 @@ const About = () => {
 
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
         <p>
-          Software Engineer based in South Africa, specializing in 3D Visuals,user interface and building web applications.
+          Software Engineer based in South Africa, with expertise in crafting 3D visuals, designing user interfaces, and building web applications.
         </p>
       </div>
 
